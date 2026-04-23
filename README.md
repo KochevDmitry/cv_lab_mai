@@ -29,7 +29,7 @@ pip install ultralytics torch torchvision kaggle
 ## Структура
 
 ```
-├── cv_lab.ipynb   # основной ноутбук
+├── cv_lab.ipynb
 └── README.md
 ```
 
